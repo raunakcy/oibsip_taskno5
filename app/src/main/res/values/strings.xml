@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">oibsip_taskno5</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="restart">Restart</string>
+    <string name="content">ToDo</string>
+    <string name="stopwatch">Stopwatch</string>
+
+
+
+
+
+
 </resources>
